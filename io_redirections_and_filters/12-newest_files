@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --time=creation --ignore='.*' | grep -v '^d' | head -10
+ls -t | head
